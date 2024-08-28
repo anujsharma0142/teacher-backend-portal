@@ -1,6 +1,3 @@
-Here’s an updated `README.md` file that reflects MongoDB usage instead of PostgreSQL:
-
-```markdown
 # Teacher Portal Backend
 
 This is the backend server for the Teacher Portal application, built using Node.js and Express.js with MongoDB as the database. It provides RESTful API endpoints for user authentication, student management, and data retrieval. The project also includes middleware for authentication and authorization using Passport.js.
