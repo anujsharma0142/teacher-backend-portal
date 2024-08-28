@@ -34,7 +34,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/teacher-portal-backend.git
+git clone https://github.com/anujsharma0142/teacher-portal-backend.git
 cd teacher-portal-backend
 ```
 
